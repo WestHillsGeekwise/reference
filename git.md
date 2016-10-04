@@ -1,15 +1,15 @@
 Git & GitHub Reference
 ================
 
-Commands to commit locally and push to GitHub
+## Commands to commit locally and push to GitHub
 
-### Commit to your local Git:
+#### Commit to your local Git:
 
 -    `$ git add . `  "stages" the changed files so they can be "committed"
 
 -    `$ git commit -m "commit message"`  commits staged files to your local repository
 
-### Push to your remote repository (GitHub):
+#### Push to your remote repository (GitHub):
 
 -    `$ git push origin master` pushes your local master branch to the remote master branch
 
@@ -17,7 +17,7 @@ Commands to commit locally and push to GitHub
 
 -----------------
 
-Getting started with Git & GitHub - from scratch
+## Getting started with Git & GitHub - from scratch
 
 ###### DO NOT perform these steps if you already have Git set up on your computer...skip to the "Create a new repo" section further down the document
 
