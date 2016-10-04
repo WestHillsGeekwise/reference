@@ -3,9 +3,9 @@ Basic Git Commmands
 
 ### Commit to your local Git:
 
--  `*$* git add . `
-  (this "stages" changed files to be committed)
--  `*$* git commit -m "commit message"`
+    `*$* git add . `
+    (this "stages" changed files to be committed)
+    `*$* git commit -m "commit message"`
 
 ### Push to your remote repository (GitHub):
 
