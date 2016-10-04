@@ -1,9 +1,7 @@
 Git & GitHub Reference
 ================
 
-
 ### Commands to commit locally and push to GitHub
-
 
 #### Commit to your local Git:
 
@@ -65,3 +63,23 @@ Git & GitHub Reference
 ###### You should now have a folder called `myfirstrepo`
 
 -------------
+
+### Creating and cloning a new repo
+
+###### ONLY perform these steps if you have already set up Git on your computer and have made an account on GitHub...see "Getting started with Git & GitHub" section above if you haven't set up git or GitHub yet
+
+15. Sign in to GitHub
+16. Create a "repo" by clicking on the `Start a project` or `New repository` button on the main GitHub home page
+17. Name the repository, click the "[x] Initialize this with a README" box, and then click the green `Create repository` button
+18. You will be taken to the main view of your repo - from here click the green `Clone or download button` and copy the "git@githu..." text
+19. Back on your computer, in Terminal/Bash "cd" into your *projects* folder
+
+    `$ cd projects`
+
+21. And then "clone" the repo you just created by typing
+
+    `git clone ` and then CMD-V (OSX) or right-click and choose "paste" (Windows) to paste in the github link
+
+###### You should now have a folder named the same name as your repo
+
+-----------------
