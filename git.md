@@ -14,8 +14,6 @@ Basic Git commands to push to GitHub
 ###### Remember that the *$* is the terminal prompt (do not type the *$*)
 
 
-----------------------
-
 
 Getting started with Git & GitHub - from scratch
 ==============
