@@ -15,11 +15,31 @@ Git & GitHub Reference
 
 ###### Remember that the *$* is the terminal prompt (do not type the *$*)
 
+-------------
+
+### Creating and cloning a new repo
+
+###### ONLY perform these steps if you have already set up Git on your computer and have made an account on GitHub...see "Getting started with Git & GitHub" section below if you haven't set up git or GitHub yet
+
+15. Sign in to GitHub
+16. Create a "repo" by clicking on the `Start a project` or `New repository` button on the main GitHub home page
+17. Name the repository, click the "[x] Initialize this with a README" box, and then click the green `Create repository` button
+18. You will be taken to the main view of your repo - from here click the green `Clone or download button` and copy the "git@githu..." text
+19. Back on your computer, in Terminal/Bash "cd" into your *projects* folder
+
+    `$ cd projects`
+
+21. And then "clone" the repo you just created by typing
+
+    `git clone ` and then CMD-V (OSX) or right-click and choose "paste" (Windows) to paste in the github link
+
+###### You should now have a folder named the same name as your repo
+
 -----------------
 
 ### Getting started with Git & GitHub - from scratch
 
-###### DO NOT perform these steps if you already have Git set up on your computer...skip to the "Create a new repo" section further down the document
+###### DO NOT perform these steps if you already have Git set up on your computer...see the "Create a new repo" section above
 
 1. Download the Git software from [https://git-scm.com/downloads](git-scm.com)
 2. Install the Git software
@@ -61,25 +81,5 @@ Git & GitHub Reference
     `git clone ` and then CMD-V (OSX) or right-click and choose "paste" (Windows) to paste in the github link
 
 ###### You should now have a folder called `myfirstrepo`
-
--------------
-
-### Creating and cloning a new repo
-
-###### ONLY perform these steps if you have already set up Git on your computer and have made an account on GitHub...see "Getting started with Git & GitHub" section above if you haven't set up git or GitHub yet
-
-15. Sign in to GitHub
-16. Create a "repo" by clicking on the `Start a project` or `New repository` button on the main GitHub home page
-17. Name the repository, click the "[x] Initialize this with a README" box, and then click the green `Create repository` button
-18. You will be taken to the main view of your repo - from here click the green `Clone or download button` and copy the "git@githu..." text
-19. Back on your computer, in Terminal/Bash "cd" into your *projects* folder
-
-    `$ cd projects`
-
-21. And then "clone" the repo you just created by typing
-
-    `git clone ` and then CMD-V (OSX) or right-click and choose "paste" (Windows) to paste in the github link
-
-###### You should now have a folder named the same name as your repo
 
 -----------------
