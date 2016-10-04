@@ -2,7 +2,7 @@ Git & GitHub Reference
 ================
 
 
-## Commands to commit locally and push to GitHub
+### Commands to commit locally and push to GitHub
 
 
 #### Commit to your local Git:
@@ -19,7 +19,7 @@ Git & GitHub Reference
 
 -----------------
 
-## Getting started with Git & GitHub - from scratch
+### Getting started with Git & GitHub - from scratch
 
 ###### DO NOT perform these steps if you already have Git set up on your computer...skip to the "Create a new repo" section further down the document
 
