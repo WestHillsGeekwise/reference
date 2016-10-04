@@ -1,5 +1,5 @@
 Git & GitHub Reference
-----------------------
+================
 
 ## Commands to commit locally and push to GitHub
 ### Commit to your local Git:
