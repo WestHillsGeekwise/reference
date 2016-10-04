@@ -9,7 +9,9 @@ Basic Git Commmands
 
 ### Push to your remote repository (GitHub):
 
--  *$* git push origin master (pushes your local master branch to the remote master branch)
+-    `$ git push origin master` pushes your local master branch to the remote master branch
 
-Remember that the *$* is your terminal prompt - do not type the $
+###### Remember that the *$* is the terminal prompt (do not type the *$*)
+
+
 ----------------------
