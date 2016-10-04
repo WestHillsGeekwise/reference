@@ -1,4 +1,4 @@
-Basic Git Commmands
+Basic Git commands to push to GitHub
 ============
 
 ### Commit to your local Git:
@@ -15,3 +15,25 @@ Basic Git Commmands
 
 
 ----------------------
+
+
+Getting started with Git & GitHub
+==============
+
+1. Create an account on [https://www.github.com](github.com)
+2. Download the Git software from [https://git-scm.com/downloads](git-scm.com)
+3. Install the Git software
+4. Launch Terminal (on OSX) or Git Bash (on Windows)
+5. Navigate to your user folder by issuing this command in the Terminal
+
+    `$ cd ~` (the *$* is your comman prompt - do not type it)
+
+6. Create a folder for all your projects - let's call ours *projects*
+
+    `$ mkdir projects`
+
+7. Let's move into that folder now with
+
+    `$ cd projects`
+
+8. 
