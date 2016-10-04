@@ -2,7 +2,6 @@ Git & GitHub Reference
 ================
 
 Commands to commit locally and push to GitHub
-----------------
 
 ### Commit to your local Git:
 
@@ -16,10 +15,9 @@ Commands to commit locally and push to GitHub
 
 ###### Remember that the *$* is the terminal prompt (do not type the *$*)
 
-
+-----------------
 
 Getting started with Git & GitHub - from scratch
-----------------
 
 ###### DO NOT perform these steps if you already have Git set up on your computer...skip to the "Create a new repo" section further down the document
 
@@ -63,3 +61,5 @@ Getting started with Git & GitHub - from scratch
     `git clone ` and then CMD-V (OSX) or right-click and choose "paste" (Windows) to paste in the github link
 
 ###### You should now have a folder called `myfirstrepo`
+
+-------------
