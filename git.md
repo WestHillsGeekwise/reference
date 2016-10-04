@@ -21,19 +21,23 @@ Getting started with Git & GitHub
 ==============
 
 1. Create an account on [https://www.github.com](github.com)
-2. Download the Git software from [https://git-scm.com/downloads](git-scm.com)
-3. Install the Git software
-4. Launch Terminal (on OSX) or Git Bash (on Windows)
-5. Navigate to your user folder by issuing this command in the Terminal
+2. Create a "repo" by clicking on
+<button>
+Start a project
+</button> 
+3. Download the Git software from [https://git-scm.com/downloads](git-scm.com)
+4. Install the Git software
+5. Launch Terminal (on OSX) or Git Bash (on Windows)
+6. Navigate to your user folder by issuing this command in the Terminal/Bash
 
     `$ cd ~` (the *$* is your comman prompt - do not type it)
 
-6. Create a folder for all your projects - let's call ours *projects*
+7. Create a folder for all your projects - let's call ours *projects*
 
     `$ mkdir projects`
 
-7. Let's move into that folder now with
+8. Let's move into that folder now with
 
     `$ cd projects`
 
-8. 
+9.
