@@ -20,11 +20,15 @@ Basic Git commands to push to GitHub
 Getting started with Git & GitHub
 ==============
 
-1. Create an account on [https://www.github.com](github.com)
-2. Create a "repo" by clicking on
 <button>
 Start a project
-</button> 
+</button>
+
+<button>Start a project</button> 
+
+1. Create an account on [https://www.github.com](github.com)
+2. Create a "repo" by clicking on
+
 3. Download the Git software from [https://git-scm.com/downloads](git-scm.com)
 4. Install the Git software
 5. Launch Terminal (on OSX) or Git Bash (on Windows)
